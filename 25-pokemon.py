@@ -2,12 +2,6 @@ import os
 os.system("cls)")
 vida_jogador = 100
 vida_inimigo = 100
-
-print("Escolha o seu pokemon")
-print("1 - Pikachu")
-print("2 - Bubasauro")
-print("1 - Charmander")
-
 while vida_jogador >= 0 and vida_inimigo >= 0: 
 
 
